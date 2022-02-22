@@ -1,0 +1,10 @@
+{"flightData":[
+    {"flightNo":"101",
+        "details":
+        {"arrTime":"2022-02-09T16:49","depTime":"2022-02-09T21:49","from":"mumbai","status":"On Time","to":"dehradun"}},
+        {"flightNo":"102","details":{"arrTime":"2022-02-09T15:35","depTime":"2022-02-26T15:35","from":"delhi","status":"Departing Late by 30 mins","to":"lucknow"}},
+        {"flightNo":"103","details":{"arrTime":"2022-02-18T15:41","depTime":"2022-02-22T15:41","from":"mumbai","status":"Arriving Early by 30 mins","to":"chennai"}},
+        {"flightNo":"104","details":{"arrTime":"2022-02-18T15:41","depTime":"2022-02-22T15:41","from":"bangladesh","status":"On Time","to":"Lucknow"}},
+        {"flightNo":"105","details":{"arrTime":"2022-02-18T15:41","depTime":"2022-02-22T15:41","from":"pakistan","status":"Arriving Early by 30 mins","to":"Lucknow"}},
+        {"flightNo":"106","details":{"arrTime":"2022-02-18T15:41","depTime":"2022-02-22T15:41","from":"america","status":"On Time","to":"new york"}},
+        {"flightNo":"107","details":{"arrTime":"2022-02-18T15:41","depTime":"2022-02-22T15:41","from":"russia","status":"Arriving Late by 30 mins","to":"england"}}]}

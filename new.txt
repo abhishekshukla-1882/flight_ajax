@@ -1,0 +1,2 @@
+index==>script.js==> operation.php=(parsing fligttdata.json)==>
+used setimeout data on reload(true,5000 )
